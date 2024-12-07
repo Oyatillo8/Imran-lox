@@ -1,0 +1,20 @@
+table,th,td{
+border: 1px solid blue;
+border:collapse-collapse;
+}
+table{
+    width: 500px;
+}
+.text{
+    text-align: center;
+    background-color: aqua;
+}
+.yellow{
+    background-color: yellow;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
